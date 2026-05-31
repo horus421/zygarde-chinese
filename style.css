@@ -4,9 +4,9 @@
 
 
 
-/* v1.4.5: restore card image size from v1.4.3 */
+/* v1.4.6: reward card images enlarged 2x */
 .poke img {
-  max-width: 230px !important;
+  max-width: 460px !important;
   width: 100% !important;
   aspect-ratio: 3 / 4 !important;
   object-fit: contain !important;
@@ -14,7 +14,7 @@
 
 .reward-img,
 .feedback img.reward-img {
-  max-width: 230px !important;
+  max-width: 460px !important;
   width: 100% !important;
   aspect-ratio: 3 / 4 !important;
   object-fit: contain !important;
